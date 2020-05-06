@@ -1,0 +1,522 @@
+London,London,,GBR
+San Francisco,SF Bay Area,CA,USA
+Paris,Paris,,FRA
+Bel,Brussels,,BEL
+Hanover,Baltimore,MD,USA
+New York,New York City,NY,USA
+Cambridge,Boston,MA,USA
+Stevenson,WA - Other,WA,USA
+Toronto,Toronto,ON,CAN
+Edinburgh,Edinburgh,,GBR
+Austin,Austin,TX,USA
+Miami,Miami,FL,USA
+Vancouver,Vancouver,BC,CAN
+Cleveland,Cleveland,OH,USA
+Kalamazoo,Kalamazoo,MI,USA
+Paoli,Philadelphia,PA,USA
+Buenos Aires,Buenos Aires,,ARG
+Palo Alto,SF Bay Area,CA,USA
+Dublin,Dublin,,IRL
+Denver,Denver,CO,USA
+Westminster,Denver,CO,USA
+Pittsburgh,Pittsburgh,PA,USA
+Atlanta,Atlanta,GA,USA
+Newport Beach,Anaheim,CA,USA
+Vilnius,Vilnius,,LTU
+Seattle,Seattle,WA,USA
+Livermore,SF Bay Area,CA,USA
+Laguna Hills,Los Angeles,CA,USA
+Honolulu,Honolulu,HI,USA
+San Mateo,SF Bay Area,CA,USA
+St Louis,St. Louis,MO,USA
+Waltham,Boston,MA,USA
+Fredrikstad,NOR - Other,,NOR
+Beverly Hills,Los Angeles,CA,USA
+Moscow,Moscow,,RUS
+Taipei,Taiwan,,TWN
+Hennigsdorf,DEU - Other,,DEU
+Chattanooga,Chattanooga,TN,USA
+Rockville,"Washington, D.C.",MD,USA
+Boston,Boston,MA,USA
+Gatineau,Gatineau,QC,CAN
+Franklin,Nashville,TN,USA
+Mission,KS - Other,KS,USA
+Cincinnati,Cincinnati,OH,USA
+Tokyo,Tokyo,,JPN
+Belfast,Belfast,,GBR
+Barcelona,Barcelona,,ESP
+New Delhi,New Delhi,,IND
+Folsom,Sacramento,CA,USA
+Delft,The Hague,,NLD
+Oak Ridge,Knoxville,TN,USA
+Providence,Providence,RI,USA
+Mountain View,SF Bay Area,CA,USA
+Montr�al,Montreal,QC,CAN
+Scottsdale,Phoenix,AZ,USA
+Carthage,Carthage,IL,USA
+Sunnyvale,SF Bay Area,CA,USA
+Newcastle Upon Tyne,Newcastle,,GBR
+Ann Arbor,Detroit,MI,USA
+Madrid,Madrid,,ESP
+Bellevue,Seattle,WA,USA
+Burnsville,Minneapolis,MN,USA
+Reston,"Washington, D.C.",VA,USA
+Fresno,Fresno,CA,USA
+Des Moines,Des Moines,IA,USA
+Santa Clara,SF Bay Area,CA,USA
+Framingham,Boston,MA,USA
+Helsinki,Helsinki,,FIN
+Catania,Catania,,ITA
+Tel Aviv,Tel Aviv,,ISR
+San Diego,San Diego,CA,USA
+Durham,Raleigh,NC,USA
+Palm Beach Gardens,Palm Beaches,FL,USA
+V�stra Fr�lunda,SWE - Other,,SWE
+Philadelphia,Philadelphia,PA,USA
+Winter Park,Orlando,FL,USA
+Brentwood,Nashville,TN,USA
+Kansas City,Kansas City,MO,USA
+Portland,"Portland, Oregon",OR,USA
+Alpharetta,Atlanta,GA,USA
+Copenhagen,Copenhagen,,DNK
+Washington,"Washington, D.C.",DC,USA
+Noida,New Delhi,,IND
+Lausanne,Lausanne,,CHE
+Van Nuys,Los Angeles,CA,USA
+Nashville,Nashville,TN,USA
+Berkeley Heights,Newark,NJ,USA
+Nashua,"Manchester, New Hampshire",NH,USA
+Madison,Madison,WI,USA
+Redwood Shores,SF Bay Area,CA,USA
+Green Bay,Green Bay,WI,USA
+San Jose,SF Bay Area,CA,USA
+Foothill Ranch,"Orange County, California",CA,USA
+New Haven,Hartford,CT,USA
+Bucharest,Bucharest,,ROM
+Redwood City,SF Bay Area,CA,USA
+Petah Tiqva,Tel Aviv,,ISR
+Elyria,Cleveland,OH,USA
+Linthicum Heights,Baltimore,MD,USA
+Santa Monica,Los Angeles,CA,USA
+Montpellier,Montpellier,,FRA
+Lincoln,Omaha,NE,USA
+Los Altos,SF Bay Area,CA,USA
+Lule�,Lulea,,SWE
+Charleston,"Charleston, South Carolina",SC,USA
+Houston,Houston,TX,USA
+Chicago,Chicago,IL,USA
+Bedminster,Newark,NJ,USA
+Raleigh,Raleigh,NC,USA
+Urbandale,Des Moines,IA,USA
+Seoul,Seoul,,KOR
+Corvallis,"Salem, Oregon",OR,USA
+Westford,Boston,MA,USA
+New Orleans,New Orleans,LA,USA
+Bethesda,"Washington, D.C.",MD,USA
+Pittsburg,SF Bay Area,CA,USA
+Los Angeles,Los Angeles,CA,USA
+Eden Prairie,Minneapolis,MN,USA
+Dover,Akron - Canton,OH,USA
+Tempe,Phoenix,AZ,USA
+Munich,Munich,,DEU
+Plano,Dallas,TX,USA
+North Little Rock,Little Rock,AR,USA
+Edison,Newark,NJ,USA
+Bridgeport,Hartford,CT,USA
+Krak�w,Krakow,,POL
+Boadilla Del Monte,Madrid,,ESP
+Heidelberg,Frankfurt,,DEU
+San Bruno,SF Bay Area,CA,USA
+Burlingame,SF Bay Area,CA,USA
+Oakland,SF Bay Area,CA,USA
+Mumbai,Mumbai,,IND
+Gothenburg,Gothenburg,,SWE
+S�o Paulo,Sao Paulo,,BRA
+Burlington,Boston,MA,USA
+Oroville,WA - Other,WA,USA
+Werl,DEU - Other,,DEU
+Memphis,Memphis,TN,USA
+Doylestown,Philadelphia,PA,USA
+Youngstown,Youngstown,OH,USA
+Sydney,Sydney,,AUS
+Singapore,Singapore,,SGP
+Manhattan Beach,Los Angeles,CA,USA
+Raanana,Tel Aviv,,ISR
+Irvine,Anaheim,CA,USA
+Seongnam,Seongnam,,KOR
+Horsham,Philadelphia,PA,USA
+Cork,Cork,,IRL
+Milan,Milan,,ITA
+Makati,Manila,,PHL
+Baltimore,Baltimore,MD,USA
+Champaign,"Springfield, Illinois",IL,USA
+Louisville,Louisville,KY,USA
+Draper,Salt Lake City,UT,USA
+Chagrin Falls,Cleveland,OH,USA
+Orlando,Orlando,FL,USA
+Sandy,Salt Lake City,UT,USA
+Oeiras,Lisbon,,PRT
+Lima,Lima,,PER
+Corona,Ontario - Inland Empire,CA,USA
+Falls Church,"Washington, D.C.",VA,USA
+Roma,Rome,,ITA
+Aarhus,Aarhus,,DNK
+Hoboken,Newark,NJ,USA
+Menlo Park,SF Bay Area,CA,USA
+Arlington Heights,Chicago,IL,USA
+Caesarea,Netanya,,ISR
+Lexington,Boston,MA,USA
+Brno,Prague,,CZE
+Kirkland,Seattle,WA,USA
+Murray,Salt Lake City,UT,USA
+Emeryville,SF Bay Area,CA,USA
+Huntington Station,Long Island,NY,USA
+Dallas,Dallas,TX,USA
+Bridgewater,Newark,NJ,USA
+Freiburg,Freiburg,,DEU
+Vienna,Vienna,,AUT
+Indianapolis,Indianapolis,IN,USA
+Woburn,Boston,MA,USA
+Kfar Saba,Tel Aviv,,ISR
+Stockholm,Stockholm,,SWE
+Detroit,Detroit,MI,USA
+Wellington,Wellington,,NZL
+New Hope,Philadelphia,PA,USA
+Santa Barbara,Santa Barbara,CA,USA
+Fairfax,"Washington, D.C.",VA,USA
+Phoenix,Phoenix,AZ,USA
+Lake Oswego,"Portland, Oregon",OR,USA
+Hasselt,Brussels,,BEL
+Overland Park,Kansas City,KS,USA
+Berlin,Berlin,,DEU
+Littleton,Denver,CO,USA
+Glen Allen,Richmond,VA,USA
+Waterloo,DEU - Other,,DEU
+Rio De Janeiro,Rio de Janeiro,,BRA
+Boulder,Denver,CO,USA
+Cochin,Cochin,,IND
+Boca Raton,Palm Beaches,FL,USA
+Arlington,Boston,MA,USA
+Tampa,Tampa,FL,USA
+Ashburn,"Washington, D.C.",VA,USA
+Dubai,Dubai,,ARE
+Sioux Falls,Sioux Falls,SD,USA
+American Fork,Salt Lake City,UT,USA
+Fall River,New Bedford,MA,USA
+Mougins,Nice,,FRA
+Bierges,BEL - Other,,BEL
+Saint Cloud,MN - Other,MN,USA
+Melbourne,Melbourne,,AUS
+Akron,Akron - Canton,OH,USA
+Los Altos Hills,SF Bay Area,CA,USA
+Grafton,Milwaukee,WI,USA
+San Carlos,SF Bay Area,CA,USA
+Morris Plains,Newark,NJ,USA
+Beachwood,Cleveland,OH,USA
+Edmonton,Edmonton,AB,CAN
+East Peoria,Peoria,IL,USA
+Espoo,Helsinki,,FIN
+San Antonio,San Antonio,TX,USA
+North Vancouver,Vancouver,BC,CAN
+Tallinn,Tallinn,,EST
+Herzliya,Tel Aviv,,ISR
+Columbia,Baltimore,MD,USA
+Somerville,Boston,MA,USA
+Hamburg,Hamburg,,DEU
+Saint Louis,St. Louis,MO,USA
+Quebec,Quebec City,QC,CAN
+Las Vegas,Las Vegas,NV,USA
+Brooklyn,New York City,NY,USA
+Chapel Hill,Raleigh,NC,USA
+Bangalore,Bangalore,,IND
+St. Petersburg,Tampa,FL,USA
+Pleasanton,SF Bay Area,CA,USA
+Camarillo,Santa Barbara,CA,USA
+Temecula,Ontario - Inland Empire,CA,USA
+Exeter,Exeter,,GBR
+Brussels,Brussels,,BEL
+Gainesville,Gainesville,FL,USA
+Libourne,FRA - Other,,FRA
+�an,�an,,TUR
+Broomfield,Denver,CO,USA
+Lyndonville,NY - Other,NY,USA
+Derwood,MD - Other,MD,USA
+Kilauea,HI - Other,HI,USA
+Woodbridge,CT - Other,CT,USA
+South Glastonbury,CT - Other,CT,USA
+Homburg,Homburg,,DEU
+Liverpool,Liverpool,,GBR
+Salt Lake City,Salt Lake City,UT,USA
+Brunswick,Savannah,GA,USA
+Los Gatos,SF Bay Area,CA,USA
+Pasadena,Los Angeles,CA,USA
+Z�rich,Zurich,,CHE
+St. Johns,St. Johns,NL,CAN
+Boulder Creek,CA - Other,CA,USA
+Lab�ge,Lab�ge,,FRA
+Santiago,Santiago,,CHL
+Tulsa,Tulsa,OK,USA
+Istanbul,Istanbul,,TUR
+Melville,Long Island,NY,USA
+Roncade,Roncade,,ITA
+Barrie,Toronto,ON,CAN
+Greensboro,Greensboro,NC,USA
+Stamford,Hartford,CT,USA
+Palma De Mallorca,Palma De Mallorca,,ESP
+Watertown,Boston,MA,USA
+Milwaukee,Milwaukee,WI,USA
+Charlottesville,"Washington, D.C.",VA,USA
+Coralville,Cedar Rapids,IA,USA
+Ottawa,Ottawa,ON,CAN
+Nantes,Nantes,,FRA
+Windsor,CO - Other,CO,USA
+Morrisville,Raleigh,NC,USA
+Shenzhen,Shenzhen,,CHN
+Budapest,Budapest,,HUN
+Kuala Lumpur,Kuala Lumpur,,MYS
+Midvale,Salt Lake City,UT,USA
+Katowice,Katowice,,POL
+Lowell,Boston,MA,USA
+Riga,Riga,,LVA
+C�rdoba,"Cordoba, ARG",,ARG
+Columbus,"Columbus, Georgia",GA,USA
+Cuyahoga Falls,Akron - Canton,OH,USA
+Norwich,London,,GBR
+Cordova,Memphis,TN,USA
+Lehi,Salt Lake City,UT,USA
+Eindhoven,Eindhoven,,NLD
+Lewisville,Dallas,TX,USA
+Tullahoma,TN - Other,TN,USA
+West Hollywood,Los Angeles,CA,USA
+Omaha,Omaha,NE,USA
+Minneapolis,Minneapolis,MN,USA
+Hond�n De Los Frailes,ESP - Other,,ESP
+San Juan Capistrano,"Orange County, California",CA,USA
+Cagliari,Cagliari,,ITA
+Satellite Beach,Floridas Space Coast,FL,USA
+El Segundo,Los Angeles,CA,USA
+Cologne,Cologne,,DEU
+Park City,Salt Lake City,UT,USA
+Prairie Village,KS - Other,KS,USA
+Montevideo,Montevideo,,URY
+Guatemala City,Guatemala City,,GTM
+New Providence,Newark,NJ,USA
+Maynard,Boston,MA,USA
+Torrance,Los Angeles,CA,USA
+Belmont-sur-lausanne,CHE - Other,,CHE
+Lagos,Lagos,,NGA
+Nairobi,Nairobi,,KEN
+Charlotte,Charlotte,NC,USA
+Santa Fe,Albuquerque,NM,USA
+Ambler,Philadelphia,PA,USA
+Orsay,Orsay,,FRA
+M�nchen,Munich,,DEU
+Shanghai,Shanghai,,CHN
+Fremont,SF Bay Area,CA,USA
+Fort Lauderdale,Ft. Lauderdale,FL,USA
+South San Francisco,SF Bay Area,CA,USA
+Bedford,Halifax,QC,CAN
+Ferndale,Detroit,MI,USA
+Lucerne Valley,CA - Other,CA,USA
+Griffith,Sydney,,AUS
+Kanagawa,Yokohama,,JPN
+Santa Cruz,SF Bay Area,CA,USA
+Keswick,VA - Other,VA,USA
+Concord,Boston,MA,USA
+Moncton,Moncton,ON,CAN
+Alexandria,Alexandria,VA,USA
+Culver City,Los Angeles,CA,USA
+Orange,Anaheim,CA,USA
+Berkeley,SF Bay Area,CA,USA
+Amsterdam,Amsterdam,,NLD
+Huntington Beach,Anaheim,CA,USA
+Dayton,Dayton,OH,USA
+Casper,WY - Other,WY,USA
+Woodland Hills,Los Angeles,CA,USA
+Boise,Boise,ID,USA
+Norwalk,Hartford,CT,USA
+West Palm Beach,Palm Beaches,FL,USA
+Birmingham,Birmingham,AL,USA
+Lancaster,Harrisburg,PA,USA
+Exton,Philadelphia,PA,USA
+San Polo,ITA - Other,,ITA
+Gurgaon,New Delhi,,IND
+Labbeck,DEU - Other,,DEU
+Leiden,The Hague,,NLD
+Rancho Mirage,Palm Springs,CA,USA
+Venice,Los Angeles,CA,USA
+Ledbury,GBR - Other,,GBR
+Libertyville,Chicago,IL,USA
+Oklahoma City,Oklahoma City,OK,USA
+Milano,TX - Other,TX,USA
+K�ln,Cologne,,DEU
+Moffett Field,CA - Other,CA,USA
+Warsaw,Warsaw,,POL
+Chevy Chase,"Washington, D.C.",MD,USA
+Ramat Gan,Tel Aviv,,ISR
+Fayetteville,Fayetteville,AR,USA
+Burnaby,Burnaby,BC,CAN
+Link�ping,Linkoping,,SWE
+Aachen,Aachen,,DEU
+Wilmington,"Wilmington - Cape Fear, North Carolina",NC,USA
+Buffalo,Buffalo,NY,USA
+Willoughby,Cleveland,OH,USA
+Dhaka,Dhaka,,BGD
+Silver Spring,"Washington, D.C.",MD,USA
+Gaithersburg,"Washington, D.C.",MD,USA
+Milpitas,SF Bay Area,CA,USA
+Gent,Brussels,,BEL
+Eveleth,Duluth,MN,USA
+Radnor,Philadelphia,PA,USA
+Olathe,Kansas City,KS,USA
+Apple Valley,Ontario - Inland Empire,CA,USA
+Pittsfield,Bangor,MA,USA
+Redmond,Seattle,WA,USA
+Kenansville,Jacksonville,FL,USA
+Limerick,Limerick,,IRL
+Geneva,Geneva,,CHE
+Marlton,NJ - Other,NJ,USA
+Troy,"Albany, New York",NY,USA
+Spring Lake Park,MN - Other,MN,USA
+Netanya,Netanya,,ISR
+Natick,Boston,MA,USA
+Bentonville,Fayetteville,AR,USA
+Ghent,Brussels,,BEL
+Acton,Boston,MA,USA
+Hong Kong,Hong Kong,,HKG
+Chatsworth,Los Angeles,CA,USA
+Hardwick,Worcester,MA,USA
+Englewood,Denver,CO,USA
+Sterling,"Washington, D.C.",VA,USA
+Costa Mesa,Anaheim,CA,USA
+Bala Cynwyd,Philadelphia,PA,USA
+Montmel�,ESP - Other,,ESP
+Wethersfield,Hartford,CT,USA
+Orem,Salt Lake City,UT,USA
+Cape Town,Cape Town,,ZAF
+Issaquah,Seattle,WA,USA
+Sartrouville,FRA - Other,,FRA
+Kitchener,Toronto,ON,CAN
+Needham,Boston,MA,USA
+Carlsbad,San Diego,CA,USA
+Canandaigua,"Rochester, New York",NY,USA
+Jakarta,Jakarta,,IDN
+Wayne,IL - Other,IL,USA
+Carmel,Indianapolis,IN,USA
+Leesburg,"Washington, D.C.",VA,USA
+Stanmore,Stanmore,,GBR
+Issy-les-moulineaux,Paris,,FRA
+South Easton,Boston,MA,USA
+Mexico City,Mexico City,,MEX
+D�n Laoghaire,D�n Laoghaire,,IRL
+Saint Paul,Minneapolis,MN,USA
+Bristol,Bristol,,GBR
+Hudson,Akron - Canton,OH,USA
+Sherman Oaks,Los Angeles,CA,USA
+Berwyn,Philadelphia,PA,USA
+North Haven,Hartford,CT,USA
+Kyoto-shi,Kyoto,,JPN
+Lewes,Dover,DE,USA
+Calabasas,Los Angeles,CA,USA
+Clinton Township,Detroit,MI,USA
+Kazan,Kazan,,RUS
+Miami Beach,Miami,FL,USA
+Birker�d,DNK - Other,,DNK
+Sausalito,SF Bay Area,CA,USA
+Fairfield,Hartford,CT,USA
+Flower Mound,Dallas,TX,USA
+Darien,Hartford,CT,USA
+Calgary,Calgary,AB,CAN
+Wexford,Pittsburgh,PA,USA
+Auburn,Sacramento,CA,USA
+Belo Horizonte,Rio de Janeiro,,BRA
+Frederick,Hagerstown,MD,USA
+Sarasota,Sarasota - Bradenton,FL,USA
+Mission Viejo,"Orange County, California",CA,USA
+Townsville,AUS - Other,,AUS
+Chiasso,Chiasso,,CHE
+Erie,Denver,CO,USA
+Provo,Salt Lake City,UT,USA
+Turku,Turku,,FIN
+Sierre,CHE - Other,,CHE
+Long Island City,New York City,NY,USA
+Belmont,SF Bay Area,CA,USA
+La Rochelle,La Rochelle,,FRA
+Oxford,London,,GBR
+Boxborough,Boston,MA,USA
+Huntsville,Huntsville,AL,USA
+Newbury,Boston,MA,USA
+Christchurch,Christchurch,,NZL
+Baxter,St. Cloud,MN,USA
+Sewickley,Pittsburgh,PA,USA
+Kuala Lumpor,MYS - Other,,MYS
+Beverly,Boston,MA,USA
+Eagan,Minneapolis,MN,USA
+Apex,Raleigh,NC,USA
+Beijing,Beijing,,CHN
+Deerfield Beach,Ft. Lauderdale,FL,USA
+Surry Hills,Sydney,,AUS
+Pacific Palisades,CA - Other,CA,USA
+Bruges,FRA - Other,,FRA
+Boston Spa,Boston Spa,,GBR
+Lakeland,Tampa,FL,USA
+Princeton,Newark,NJ,USA
+Ames,Des Moines,IA,USA
+Hawthorne,Los Angeles,CA,USA
+Zeeland,Grand Rapids,MI,USA
+Lake Mary,Orlando,FL,USA
+West Lafayette,Indianapolis,IN,USA
+Saint John,NB - Other,NB,CAN
+Charlestown,Boston,MA,USA
+Fort Collins,Fort Collins,CO,USA
+Lebanon,"Manchester, New Hampshire",NH,USA
+Port Hueneme Cbc Base,CA - Other,CA,USA
+Williston,VT - Other,VT,USA
+Hyderabad,Hyderabad,,IND
+Oberlin,Cleveland,OH,USA
+Paris Crossing,IN - Other,IN,USA
+East Sandwich,Cape Cod,MA,USA
+College Park,"Washington, D.C.",MD,USA
+Darjeeling,IND - Other,,IND
+Schaumburg,Chicago,IL,USA
+San Rafael,SF Bay Area,CA,USA
+Fitchburg,WI - Other,WI,USA
+Bozeman,Bozeman,MT,USA
+Bath,Bath,,GBR
+Lakewood,Denver,CO,USA
+Ventura,Santa Barbara,CA,USA
+Alamo,SF Bay Area,CA,USA
+Irving,Dallas,TX,USA
+Chennai,Chennai,,IND
+Wroclaw,Wroclaw,,POL
+Knoxville,Knoxville,TN,USA
+Westwood,Boston,MA,USA
+Jersey City,Newark,NJ,USA
+Mclean,"Washington, D.C.",VA,USA
+Albuquerque,Albuquerque,NM,USA
+Sacramento,Sacramento,CA,USA
+Elmhurst,Chicago,IL,USA
+Guilford,Hartford,CT,USA
+Bothell,Seattle,WA,USA
+Richmond,Richmond,VA,USA
+Encinitas,San Diego,CA,USA
+Marseille,Marseille,,FRA
+Newark,Newark,NJ,USA
+Sugar Land,Houston,TX,USA
+Peoria,Phoenix,AZ,USA
+Delhi,Delhi,,IND
+Springfield,"Springfield, Illinois",IL,USA
+Sebastopol,Napa Valley,CA,USA
+Guelph,Toronto,ON,CAN
+Westport,Hartford,CT,USA
+San Casciano Val Di Pesa,San Casciano Val Di Pesa,,ITA
+Houghton Le Spring,GBR - Other,,GBR
+Newtonville,Atlantic City,NJ,USA
+Toms River,Atlantic City,NJ,USA
+Sogndal,NOR - Other,,NOR
+Starkville,Tupelo,MS,USA
+Valencia,Valencia,,ESP
+Mandaluyong,Manila,,PHL
+Manhattan,New York City,NY,USA
+Herndon,"Washington, D.C.",VA,USA
+Kefar Sava,ISR - Other,,ISR
