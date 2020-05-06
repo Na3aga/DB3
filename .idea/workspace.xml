@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c382729b-7d5d-4901-8534-fa0b6fc54db4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view.sql" beforeDir="false" afterPath="$PROJECT_DIR$/view.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +36,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588715151547</updated>
       <workItem from="1588715153959" duration="874000" />
-      <workItem from="1588716071613" duration="1563000" />
+      <workItem from="1588716071613" duration="2428000" />
     </task>
     <servers />
   </component>
@@ -53,6 +52,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588716018937" />
+    <state x="672" y="236" key="MultipleFileMergeDialog" timestamp="1588718529191">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="672" y="236" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588718529191" />
     <state x="747" y="236" key="VCS.ChangeListViewerDialog" timestamp="1588718442129">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
