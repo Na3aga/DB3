@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c382729b-7d5d-4901-8534-fa0b6fc54db4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/kaggle_import.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +25,36 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.project" />
+  </component>
+  <component name="RunManager">
+    <configuration name="kaggle_import" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="F:\study\mathstat\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kaggle_import.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.kaggle_import" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -36,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588715151547</updated>
       <workItem from="1588715153959" duration="874000" />
-      <workItem from="1588716071613" duration="2428000" />
+      <workItem from="1588716071613" duration="8270000" />
     </task>
     <servers />
   </component>
@@ -44,6 +75,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588789769528">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588789769528" />
+    <state x="691" y="117" key="#kaggle_import" timestamp="1588785460734">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="691" y="117" key="#kaggle_import/0.0.1920.1040@0.0.1920.1040" timestamp="1588785460734" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1588718508434">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -52,10 +91,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588716018937" />
+    <state width="1100" height="282" key="GridCell.Tab.0.bottom" timestamp="1588786284508">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1100" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588786284508" />
+    <state width="1100" height="282" key="GridCell.Tab.0.center" timestamp="1588786284508">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1100" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588786284508" />
+    <state width="1100" height="282" key="GridCell.Tab.0.left" timestamp="1588786284508">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1100" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588786284508" />
+    <state width="1100" height="282" key="GridCell.Tab.0.right" timestamp="1588786284508">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1100" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588786284508" />
     <state x="672" y="236" key="MultipleFileMergeDialog" timestamp="1588718529191">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="672" y="236" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588718529191" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1588790447759">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588790447759" />
     <state x="747" y="236" key="VCS.ChangeListViewerDialog" timestamp="1588718442129">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -72,5 +131,12 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="701" y="311" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588718465075" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1588789855664">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588789855664" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/lab03$kaggle_import.coverage" NAME="kaggle_import Coverage Results" MODIFIED="1588786284497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
