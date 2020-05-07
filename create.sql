@@ -3,7 +3,6 @@
 
 CREATE TABLE City (
     city VARCHAR(40) NOT NULL PRIMARY KEY,
-    region VARCHAR(40) NOT NULL ,
     state_code VARCHAR(4),
     country_code VARCHAR(4) NOT NULL
     );

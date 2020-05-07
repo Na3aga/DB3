@@ -28,8 +28,8 @@ with open('investments.csv', newline='') as csvfile:
 insert = ""
 
 for city, info in cities.items():
-    insert += "INSERT INTO City(city, region, state_code, country_code)\n"
-    insert += f"VALUES('{city}', '{info[0]}', '{info[1]}', '{info[2]}')\n"
+    insert += "INSERT INTO City(city, state_code, country_code)\n"
+    insert += f"VALUES('{city}', '{info[1]}', '{info[2]}')\n"
     cursor.execute(insert)
     # print(insert)
     insert = ""

@@ -42,6 +42,8 @@ for record in cursor.fetchall():
 	countries.append(record[0])
 	numbers.append(record[1])
 
+	
+
 bar = go.Bar(x = countries, y = numbers)
 bar_scheme = py.plot([bar], filename = 'country_numbers')
 
