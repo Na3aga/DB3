@@ -7,8 +7,10 @@ BEGIN
 
 	FOR i IN 1..V_CITY_NUMBER LOOP
 		INSERT INTO
-			CITY (city, region , state_code, country_code)
+			CITY (city, state_code, country_code)
 		VALUES
-			(CONCAT(V_CITY_NAME,i), 'California', 'CA', 'USA');
+			(CONCAT(V_CITY_NAME,i), 'CA', 'USA');
 	END LOOP;
 END;
+
+
